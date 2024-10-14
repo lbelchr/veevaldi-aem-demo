@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/veevaldi-demo/:/",
+    "/content/veevaldi-demo/configuration:/.helix/config.json",
+    "/content/veevaldi-demo/metadata:/metadata.json"
   ]
 }
