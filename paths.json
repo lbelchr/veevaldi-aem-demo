@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/veevaldi-demo/:/",
-    "/content/veevaldi-demo/configuration:/.helix/config.json",
-    "/content/veevaldi-demo/metadata:/metadata.json"
+    "/content/veevaldi-aem-demo/:/",
+    "/content/veevaldi-aem-demo/configuration:/.helix/config.json",
+    "/content/veevaldi-aem-demo/metadata:/metadata.json"
   ]
 }
